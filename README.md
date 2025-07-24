@@ -7,10 +7,12 @@
 
 TeEFusion is a simple yet powerful distillation method that fuses classifier-free guidance directly into text embeddings, enabling student models to mimic complex teacher sampling strategies with a single forward pass—achieving up to 6× faster inference without sacrificing image quality .
 
-<figure>
-  <img src="imgs/network.png" alt="The overview of TeEFusion">
-  <figcaption style="text-align: center;">The overview of TeEFusion</figcaption>
-</figure>
+
+<p align="center">
+  <img src="imgs/network.png" alt="The overview of TeEFusion" width="95%">
+  <br>
+  <em>The overview of TeEFusion</em>
+</p>
 
 ---
 
