@@ -1,0 +1,4 @@
+transformers==4.44.2
+accelerate==0.31.0
+diffusers
+sentencepiece
