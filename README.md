@@ -47,7 +47,8 @@ from pipelines.sd3_teefusion_pipeline import TeEFusionSD3Pipeline
 
 pipe = TeEFusionSD3Pipeline.from_pretrained(
   "AIDC-AI/TeEFusion",
-  torch_dtype=torch.bfloat16
+  torch_dtype=torch.bfloat16,
+  trust_remote_code=True
 )
 pipe.to("cuda")
 
