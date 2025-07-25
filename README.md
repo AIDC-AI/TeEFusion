@@ -1,7 +1,7 @@
 # TeEFusion: Blending Text Embeddings to Distill Classifier-Free Guidance (ICCV 2025)
 
 <p align="center"> 
-📝 <a href="https://arxiv.org/abs/2502.12579" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/AIDC-AI/TeEFusion" target="_blank">HF Repo</a> 
+📝 <a href="https://arxiv.org/abs/2507.18192" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/AIDC-AI/TeEFusion" target="_blank">HF Repo</a> 
 </p>
 
 
